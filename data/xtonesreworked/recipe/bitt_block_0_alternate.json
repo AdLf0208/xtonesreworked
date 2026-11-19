@@ -1,0 +1,16 @@
+{
+  "key": {
+    "B": "#xtonesreworked:bitt",
+    "C": "#c:dyes/black"
+  },
+  "pattern": [
+    "BBB",
+    "BCB",
+    "BBB"
+  ],
+  "result": {
+    "count": 8,
+    "id": "xtonesreworked:bitt_block_0"
+  },
+  "type": "minecraft:crafting_shaped"
+}

@@ -1,0 +1,16 @@
+{
+  "key": {
+    "B": "#xtonesreworked:zest",
+    "C": "#c:dyes/black"
+  },
+  "pattern": [
+    "BBB",
+    "BCB",
+    "BBB"
+  ],
+  "result": {
+    "count": 8,
+    "id": "xtonesreworked:zest_block_15"
+  },
+  "type": "minecraft:crafting_shaped"
+}

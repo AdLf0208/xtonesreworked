@@ -1,0 +1,16 @@
+{
+  "key": {
+    "B": "#xtonesreworked:zome",
+    "C": "#c:dyes/red"
+  },
+  "pattern": [
+    "BBB",
+    "BCB",
+    "BBB"
+  ],
+  "result": {
+    "count": 8,
+    "id": "xtonesreworked:zome_block_12"
+  },
+  "type": "minecraft:crafting_shaped"
+}

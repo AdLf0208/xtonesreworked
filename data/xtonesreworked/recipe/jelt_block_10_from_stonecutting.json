@@ -1,0 +1,9 @@
+{
+  "count": 1,
+  "ingredient": "#xtonesreworked:jelt",
+  "result": {
+    "count": 1,
+    "id": "xtonesreworked:jelt_block_10"
+  },
+  "type": "minecraft:stonecutting"
+}

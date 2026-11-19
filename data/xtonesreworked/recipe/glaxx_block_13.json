@@ -1,0 +1,16 @@
+{
+  "key": {
+    "B": "#xtonesreworked:glaxx",
+    "C": "#c:dyes/yellow"
+  },
+  "pattern": [
+    "BBB",
+    "BBB",
+    "BCB"
+  ],
+  "result": {
+    "count": 8,
+    "id": "xtonesreworked:glaxx_block_13"
+  },
+  "type": "minecraft:crafting_shaped"
+}

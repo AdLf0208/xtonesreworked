@@ -1,0 +1,16 @@
+{
+  "key": {
+    "B": "#xtonesreworked:zech",
+    "C": "#c:dyes/lime"
+  },
+  "pattern": [
+    "BBB",
+    "BCB",
+    "BBB"
+  ],
+  "result": {
+    "count": 8,
+    "id": "xtonesreworked:zech_block_2"
+  },
+  "type": "minecraft:crafting_shaped"
+}

@@ -1,0 +1,16 @@
+{
+  "key": {
+    "B": "xtonesreworked:xtone_tile",
+    "S": "minecraft:dirt"
+  },
+  "pattern": [
+    "BBB",
+    "BSB",
+    "BBB"
+  ],
+  "result": {
+    "count": 8,
+    "id": "xtonesreworked:kryp_block_0"
+  },
+  "type": "minecraft:crafting_shaped"
+}

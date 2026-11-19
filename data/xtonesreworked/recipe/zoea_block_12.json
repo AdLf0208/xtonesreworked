@@ -1,0 +1,16 @@
+{
+  "key": {
+    "B": "#xtonesreworked:zoea",
+    "C": "#c:dyes/red"
+  },
+  "pattern": [
+    "BBB",
+    "BBB",
+    "BCB"
+  ],
+  "result": {
+    "count": 8,
+    "id": "xtonesreworked:zoea_block_12"
+  },
+  "type": "minecraft:crafting_shaped"
+}

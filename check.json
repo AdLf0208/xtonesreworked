@@ -1,0 +1,36 @@
+{
+  "mod_id": "xtonesreworked",
+  "name": "XTones Reworked",
+  "version": "1.1.1-1.21.1",
+  "loader": "neoforge",
+  "license": "MIT",
+  "verdict": "partly",
+  "summary": "546 blocks, 580 recipes port; not 1 block with behaviour of its own (use, ticks, collisions).",
+  "ports": [
+    "546 blocks",
+    "580 recipes",
+    "546 loot tables",
+    "549 textures",
+    "blocks take the closest vanilla block's shape, hardness and sounds"
+  ],
+  "skipped": [
+    "1 block with behaviour of its own (use, ticks, collisions)"
+  ],
+  "depends": [],
+  "namespaces": [
+    "xtonesreworked"
+  ],
+  "code": {
+    "classes": 42,
+    "features": {
+      "block-behaviour": 1
+    },
+    "events": [],
+    "examples": {
+      "FlatLamp": [
+        "neighborChanged",
+        "tick"
+      ]
+    }
+  }
+}

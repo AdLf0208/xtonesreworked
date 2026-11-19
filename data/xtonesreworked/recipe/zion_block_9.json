@@ -1,0 +1,16 @@
+{
+  "key": {
+    "B": "#xtonesreworked:zion",
+    "C": "#c:dyes/purple"
+  },
+  "pattern": [
+    "BBB",
+    "BBB",
+    "BCB"
+  ],
+  "result": {
+    "count": 8,
+    "id": "xtonesreworked:zion_block_9"
+  },
+  "type": "minecraft:crafting_shaped"
+}

@@ -1,0 +1,16 @@
+{
+  "key": {
+    "B": "#xtonesreworked:zone",
+    "C": "#c:dyes/red"
+  },
+  "pattern": [
+    "BBB",
+    "BCB",
+    "BBB"
+  ],
+  "result": {
+    "count": 8,
+    "id": "xtonesreworked:zone_block_12"
+  },
+  "type": "minecraft:crafting_shaped"
+}

@@ -1,0 +1,16 @@
+{
+  "key": {
+    "B": "xtonesreworked:xtone_tile",
+    "C": "#c:dyes/red"
+  },
+  "pattern": [
+    "BBB",
+    "BCB",
+    "BBB"
+  ],
+  "result": {
+    "count": 8,
+    "id": "xtonesreworked:reds_block_0"
+  },
+  "type": "minecraft:crafting_shaped"
+}

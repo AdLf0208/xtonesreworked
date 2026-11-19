@@ -1,0 +1,11 @@
+# Xtones Reworked 1.1.1-1.21.1 carried to Horizon content API 0.2.
+# Licence: MIT (the upstream mod's own). Local-only until the
+# campaign's maintainer approves publishing (ARCHITECTURE.md §8).
+id = "xtonesreworked"
+name = "Xtones Reworked"
+version = "1.1.1-1.21.1"
+description = "34 tone families of 16 decorative blocks, the xtone tile and the flat lamp"
+authors = ["TobsenD"]
+api = "0.2"
+side = "both"
+capabilities = ["registries"]

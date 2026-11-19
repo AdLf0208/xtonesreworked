@@ -1,0 +1,16 @@
+{
+  "key": {
+    "B": "#xtonesreworked:zyth",
+    "C": "#c:dyes/pink"
+  },
+  "pattern": [
+    "BBB",
+    "BCB",
+    "BBB"
+  ],
+  "result": {
+    "count": 8,
+    "id": "xtonesreworked:zyth_block_11"
+  },
+  "type": "minecraft:crafting_shaped"
+}

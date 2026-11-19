@@ -1,0 +1,90 @@
+{
+  "template": "minecraft:redstone_lamp",
+  "properties": {
+    "hardness": 3.0,
+    "explosion_resistance": 3.0,
+    "sounds": "minecraft:lantern",
+    "requires_tool": true
+  },
+  "state_properties": {
+    "facing": {
+      "type": "enum",
+      "values": [
+        "north",
+        "east",
+        "south",
+        "west",
+        "up",
+        "down"
+      ]
+    }
+  },
+  "default_state": {
+    "facing": "north"
+  },
+  "shapes": {
+    "property": "facing",
+    "values": {
+      "north": [
+        [
+          0.0,
+          0.0,
+          0.8125,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      "south": [
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          1.0,
+          0.1875
+        ]
+      ],
+      "up": [
+        [
+          0.0,
+          0.0,
+          0.0,
+          1.0,
+          0.1875,
+          1.0
+        ]
+      ],
+      "down": [
+        [
+          0.0,
+          0.8125,
+          0.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ],
+      "east": [
+        [
+          0.0,
+          0.0,
+          0.0,
+          0.1875,
+          1.0,
+          1.0
+        ]
+      ],
+      "west": [
+        [
+          0.8125,
+          0.0,
+          0.0,
+          1.0,
+          1.0,
+          1.0
+        ]
+      ]
+    }
+  }
+}

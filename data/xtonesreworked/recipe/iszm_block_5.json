@@ -1,0 +1,16 @@
+{
+  "key": {
+    "B": "#xtonesreworked:iszm",
+    "C": "#c:dyes/blue"
+  },
+  "pattern": [
+    "BBB",
+    "BCB",
+    "BBB"
+  ],
+  "result": {
+    "count": 8,
+    "id": "xtonesreworked:iszm_block_5"
+  },
+  "type": "minecraft:crafting_shaped"
+}

@@ -1,0 +1,16 @@
+{
+  "key": {
+    "B": "#xtonesreworked:zorg",
+    "C": "#c:dyes/green"
+  },
+  "pattern": [
+    "BBB",
+    "BCB",
+    "BBB"
+  ],
+  "result": {
+    "count": 8,
+    "id": "xtonesreworked:zorg_block_3"
+  },
+  "type": "minecraft:crafting_shaped"
+}

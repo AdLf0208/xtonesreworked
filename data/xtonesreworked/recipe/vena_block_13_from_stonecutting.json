@@ -1,0 +1,9 @@
+{
+  "count": 1,
+  "ingredient": "#xtonesreworked:vena",
+  "result": {
+    "count": 1,
+    "id": "xtonesreworked:vena_block_13"
+  },
+  "type": "minecraft:stonecutting"
+}

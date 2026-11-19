@@ -1,0 +1,16 @@
+{
+  "key": {
+    "D": "#c:dyes/purple",
+    "X": "#xtonesreworked:bitt"
+  },
+  "pattern": [
+    "XXX",
+    "XDX",
+    "XXX"
+  ],
+  "result": {
+    "count": 8,
+    "id": "xtonesreworked:bitt_block_9"
+  },
+  "type": "minecraft:crafting_shaped"
+}

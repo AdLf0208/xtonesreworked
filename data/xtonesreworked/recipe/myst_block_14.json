@@ -1,0 +1,16 @@
+{
+  "key": {
+    "B": "#xtonesreworked:myst",
+    "C": "#c:dyes/red"
+  },
+  "pattern": [
+    "BBB",
+    "BCB",
+    "BBB"
+  ],
+  "result": {
+    "count": 8,
+    "id": "xtonesreworked:myst_block_14"
+  },
+  "type": "minecraft:crafting_shaped"
+}

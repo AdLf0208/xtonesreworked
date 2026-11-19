@@ -1,0 +1,16 @@
+{
+  "key": {
+    "B": "#xtonesreworked:zane",
+    "C": "#c:dyes/orange"
+  },
+  "pattern": [
+    "BBB",
+    "BCB",
+    "BBB"
+  ],
+  "result": {
+    "count": 8,
+    "id": "xtonesreworked:zane_block_13"
+  },
+  "type": "minecraft:crafting_shaped"
+}
