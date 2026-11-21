@@ -1,11 +1,18 @@
-# Xtones Reworked 1.1.1-1.21.1 carried to Horizon content API 0.2.
-# Licence: MIT (the upstream mod's own). Local-only until the
-# campaign's maintainer approves publishing (ARCHITECTURE.md §8).
+# Xtones Reworked 1.1.1-1.21.1 carried to the Horizon SDK format (mod API 0.2),
+# now with the flat lamp's placement rule in Rust.
+# Licence: MIT (the upstream mod's own; see LICENSE and LICENSE-NOTICE.md).
 id = "xtonesreworked"
 name = "Xtones Reworked"
-version = "1.1.1-1.21.1"
+version = "1.1.2-1.21.1"
 description = "34 tone families of 16 decorative blocks, the xtone tile and the flat lamp"
 authors = ["TobsenD"]
 api = "0.2"
 side = "both"
 capabilities = ["registries"]
+license = "MIT"
+homepage = "https://github.com/TobsenD/XTones-Reworked"
+
+[native]
+game = "26.3"
+horizon = "0a875da91dbb0fdcb7ba8c42c11341aa229af51a"
+mixins = "e59da9094f0c2fdda6c627fe9eff22dec6a906f0"

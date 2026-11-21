@@ -1,0 +1,16 @@
+[package]
+name = "mod-xtonesreworked"
+version = "1.1.2-1.21.1"
+edition = "2024"
+license = "MIT"
+description = "Xtones Reworked for Horizon: the carried 546-block content plus the flat lamp's placement rule"
+# Ported from: Xtones Reworked 1.1.1-1.21.1 (TobsenD/XTones-Reworked, MIT), Minecraft
+# Java 1.21.1 NeoForge. The blocks, models, textures, recipes and loot are the upstream
+# mod's own MIT files; the one rule in src/ is a clean-room Rust rewrite (see notes.md).
+# LOCAL-ONLY until the licence allows derivatives and the maintainer approves publishing
+# (ARCHITECTURE.md §8).
+publish = false
+
+[dependencies]
+# The pinned SDK's API crate, fetched into .horizon/sdk/ by any `cargo horizon-mod` command.
+horizon-mod-api = { path = ".horizon/sdk/api/crates/horizon-mod-api" }
